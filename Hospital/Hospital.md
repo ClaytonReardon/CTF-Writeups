@@ -154,6 +154,7 @@ LDAPS       10.129.54.212   636    DC               [+] hospital.htb\:
 ```
 I also try providing no password, and a fake username with a blank password, neither are successful.
 ### HTTP Port 8080
+![Test Image](Pasted image 20231125135134.png)
 Port 8080 hosts a login page for an unknown service. The site is running php. There is a button to make an account. I try some basic SQLi and type juggling, but am unsuccessful. I then make an account. Once logged in, there is a file upload function.
 ![[Pasted image 20231125135134.png]]
 ![[Pasted image 20231125135224.png]]
