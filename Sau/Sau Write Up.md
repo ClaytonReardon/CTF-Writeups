@@ -1,7 +1,7 @@
 ![sau](Sau.png)
 
 # Summary
-
+[Sau](https://app.hackthebox.com/machines/Sau) is an easy box that contains a website with an SSRF vulnerability. This vulnerability can be used to exploit a command injection vulnerability on an internal Mailtrack website. From there, the `less` pager combined with `systemctl` can be exploited to gain a root shell.
 ## Nmap
 I start of with an nmap scan, `-sC` for default enumeration scripts, `-sV` to enumerate versions and `-v` for verbose mode to list ports as it finds them.
 ```

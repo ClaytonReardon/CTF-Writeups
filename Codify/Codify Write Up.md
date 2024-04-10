@@ -1,7 +1,7 @@
 ![codify](Codify.png)
 
 # Summary
-
+[Codify](https://app.hackthebox.com/machines/Codify) starts with a website that allows JavaScript to be tested in a sandbox environment using vm2. Vm2 contains a vulnerability that allows escape from the sandbox and code execution on the host system, which can be leveraged to gain a reverse shell. After this a hash can be found in an SQLite database that can be cracked to gain access to another user account. A script used for backing up the database can be exploited to gain access to root.
 ## Nmap
 As always I start out with an nmap scan, `-sC` to run default enumeration scripts, `-sV` to enumerate version, and `-v` to list open port as they're found
 ```

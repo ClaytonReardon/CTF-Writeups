@@ -1,6 +1,6 @@
+![Pilgrimage](Pilgrimage.png)
 # Summary
-[Pilgrimage](https://app.hackthebox.com/machines/Pilgrimage) 
-
+[Pilgrimage](https://app.hackthebox.com/machines/Pilgrimage)  starts with a website for reducing the size of images. An exposed git repo can be found on the site, which reveals that the version on Image Magick being used for the size reduction has a file read vulnerability. This can be used to enumerate the host and discover an SQLite database, which contains a plaintext password that was reused for SSH. There's a script using inotifywait that monitors file uploads. The script runs binwalk to check for executables. The version of binwalk being used contains a vulnerability that can be exploited to gain root access.
 ## Nmap
 First things first I start off with an `nmap` scan. `-sC` for default enumeration scripts, `-sV` to enumerate version, and `-v` for verbose mode to list ports as they're found. For ports I use command substitution to run a scan of all ports. This way I can scan all ports but only run enumeration scripts on the open ones.
 ```

@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "e0c7c59d517f29bc",
+    "id": "3e646aff8dcfa0f2",
     "type": "split",
     "children": [
       {
-        "id": "2f85feb69bdf309b",
+        "id": "155c01c93db7c6ca",
         "type": "tabs",
         "children": [
           {
-            "id": "5dd21b4e56655dea",
+            "id": "fb9da9144edbde5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pilgrimage Write Up.md",
+                "file": "Sau/Sau Write Up.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f17b6c29918ebe36",
+    "id": "aac168b0e5cd0ce5",
     "type": "split",
     "children": [
       {
-        "id": "8e7ffb8e9ec19440",
+        "id": "fa4bce89ba860e3a",
         "type": "tabs",
         "children": [
           {
-            "id": "3d2b4cd9a0b81a37",
+            "id": "0753dd467afb6c9b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "9c140aa5d64d0a21",
+            "id": "d47dd7a3656d9ff1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "5c2c7cea8656de3a",
+            "id": "ea526b19a172d0a8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "e8ccd7f06132d170",
+    "id": "4bfd26c1c71ddb58",
     "type": "split",
     "children": [
       {
-        "id": "e157f790f4342e0b",
+        "id": "e062b2a452035ddd",
         "type": "tabs",
         "children": [
           {
-            "id": "491feb68e3bdd18c",
+            "id": "75f6cdc5dbcd64cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pilgrimage Write Up.md",
+                "file": "Sau/Sau Write Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "f0a9585d9abb8041",
+            "id": "2dd5f4082d51e446",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pilgrimage Write Up.md",
+                "file": "Sau/Sau Write Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d130ce1c57513e32",
+            "id": "3da3f61e5091602b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "9222e8b64ebee937",
+            "id": "67dbe4060ea1a120",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pilgrimage Write Up.md"
+                "file": "Sau/Sau Write Up.md"
               }
             }
           }
@@ -146,21 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5dd21b4e56655dea",
+  "active": "fb9da9144edbde5c",
   "lastOpenFiles": [
-    "Fri-1-2023_01-29.png",
-    "Fri-1-2023_01-27.png",
-    "Fri-1-2023_01-16.png",
-    "Fri-1-2023_01-14.png",
-    "Fri- 1-2023_01-14.png",
-    "Fri-1-2023_01-08.png",
-    "Fri-1-2023_01-01.png",
-    "Fri-.md",
-    "Pilgrimage.md",
-    "Fri- 1-2023_01-00.png",
-    "Fri- 1-2023_01-01.png",
-    "notes.md",
-    "Thu-30-2023_12-49.png",
-    "Thu-30-2023_12-48.png"
+    "Pilgrimage/Pilgrimage Write Up.md",
+    "Keeper/Keeper Write Up.md",
+    "Keeper/redgrod.png",
+    "Keeper/Keeper.png",
+    "Keeper/hash.png",
+    "CozyHosting/CozyHosting Write Up.md",
+    "Codify/Codify Write Up.md",
+    "Broker/Broker Write Up.md",
+    "Broker/Broker.png",
+    "Broker/Broker.png.crdownload",
+    "Analytics/Analytics Write Up.md",
+    "Analytics/Analytics.png"
   ]
 }

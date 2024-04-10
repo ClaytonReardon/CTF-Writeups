@@ -1,3 +1,8 @@
+![Broker](Broker.png)
+
+# Summary
+Broker is a non-competitive box that was released straight to the retired category. This was to showcase an active vulnerability in ActiveMQ. ActiveMQ is a very common Java based message broker that contains an unauthenticated remote code execution vulnerability that is tracked as CVE-2023-46604. This vulnerability was given the rare 10.0 CVSS impact rating. This vulnerability can be exploted to gain a foothold. Once on the box, the ActiveMQ user can run `nginx` as root. A malicious nginx.conf file can be created which will allow file read and write to the entire file system.
+# Nmap
 First things first I run `nmap` to discover and enumerate open ports. I run a scan and all ports first with the `-p-` flag, and then run a service version `-sV` and script `-sC` scan.
 ```bash
 sudo nmap -sC -sV -v -p 22,80,1883,5672,8161,37911,61613,61614,61616 $IP
