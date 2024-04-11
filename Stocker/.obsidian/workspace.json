@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "3e646aff8dcfa0f2",
+    "id": "9c9340faaafd9dd9",
     "type": "split",
     "children": [
       {
-        "id": "155c01c93db7c6ca",
+        "id": "0122bfc2411afb3e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9da9144edbde5c",
+            "id": "8ed426a13ca365c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wait-to-publish/Hospital/Hospital Writeup.md",
+                "file": "Stocker Write Up.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aac168b0e5cd0ce5",
+    "id": "24fa6e0f532d5783",
     "type": "split",
     "children": [
       {
-        "id": "fa4bce89ba860e3a",
+        "id": "7bc899f4dc2e480e",
         "type": "tabs",
         "children": [
           {
-            "id": "0753dd467afb6c9b",
+            "id": "da03ae6466f783f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "d47dd7a3656d9ff1",
+            "id": "59c2b2a9e17276cc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "ea526b19a172d0a8",
+            "id": "72da5b8ad5ea25d2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "4bfd26c1c71ddb58",
+    "id": "aded4d44b05d198e",
     "type": "split",
     "children": [
       {
-        "id": "e062b2a452035ddd",
+        "id": "99a421ed1aed0427",
         "type": "tabs",
         "children": [
           {
-            "id": "75f6cdc5dbcd64cc",
+            "id": "2ba1cca7ea6feca8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wait-to-publish/Hospital/Hospital Writeup.md",
+                "file": "Stocker Write Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "2dd5f4082d51e446",
+            "id": "8db333ec3525b869",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wait-to-publish/Hospital/Hospital Writeup.md",
+                "file": "Stocker Write Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3da3f61e5091602b",
+            "id": "fee100461ab7a46d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "67dbe4060ea1a120",
+            "id": "33282712679d15fd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "wait-to-publish/Hospital/Hospital Writeup.md"
+                "file": "Stocker Write Up.md"
               }
             }
           }
@@ -146,25 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0753dd467afb6c9b",
+  "active": "8ed426a13ca365c1",
   "lastOpenFiles": [
-    "wait-to-publish/DevVortex/DevVortex Writeup.md",
-    "Stocker/Stocker Writeup.md",
-    "Soccer/Soccer Writeup.md",
-    "Sau/Sau Writeup.md",
-    "Pilgrimage/Pilgrimage Writeup.md",
-    "MetaTwo/MetaTwo Writeup.md",
-    "Keeper/Keeper Writeup.md",
-    "Keeper/redgrod.png",
-    "Investigation/Investigation Writeup.md",
-    "CozyHosting/CozyHosting Writeup.md",
-    "Codify/Codify Writeup.md",
-    "Broker/Broker Writeup.md",
-    "Analytics/Analytics Writeup.md",
-    "Keeper/Keeper.png",
-    "Keeper/hash.png",
-    "Broker/Broker.png",
-    "Broker/Broker.png.crdownload",
-    "Analytics/Analytics.png"
+    "Wed-10-2024_14-18.png",
+    "Wed-10-2024_14-17.png",
+    "Wed-10-2024_14-16.png",
+    "Wed-10-2024_14-13.png",
+    "Wed-10-2024_14-12.png",
+    "Wed-10-2024_14-10.png",
+    "Wed-10-2024_14-02.png",
+    "Wed-10-2024_14-01.png",
+    "Wed-10-2024_13-35.png",
+    "Wed-10-2024_13-34.png",
+    "Wed-10-2024_13-28.png",
+    "Stocker.png.crdownload",
+    "nmap.md",
+    "Stocker Write Up.md"
   ]
 }

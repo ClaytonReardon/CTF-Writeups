@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "3e646aff8dcfa0f2",
+    "id": "e73f3bf8d6a6e3f4",
     "type": "split",
     "children": [
       {
-        "id": "155c01c93db7c6ca",
+        "id": "182bc34a4760714c",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9da9144edbde5c",
+            "id": "dbaa55b4ccbe4714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wait-to-publish/Hospital/Hospital Writeup.md",
+                "file": "Support Writeup.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aac168b0e5cd0ce5",
+    "id": "151d953079907e93",
     "type": "split",
     "children": [
       {
-        "id": "fa4bce89ba860e3a",
+        "id": "e3b7d883f0260e16",
         "type": "tabs",
         "children": [
           {
-            "id": "0753dd467afb6c9b",
+            "id": "a41512a39ef4c632",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "d47dd7a3656d9ff1",
+            "id": "823e9612b3e7a9c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "ea526b19a172d0a8",
+            "id": "fc7b1177a6c0b8fe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "4bfd26c1c71ddb58",
+    "id": "b7caf5b0de4bea2e",
     "type": "split",
     "children": [
       {
-        "id": "e062b2a452035ddd",
+        "id": "6c712247bf2eaeb0",
         "type": "tabs",
         "children": [
           {
-            "id": "75f6cdc5dbcd64cc",
+            "id": "ad6e5b056561df0f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wait-to-publish/Hospital/Hospital Writeup.md",
+                "file": "Support Writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "2dd5f4082d51e446",
+            "id": "d254538f1bcf2be3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wait-to-publish/Hospital/Hospital Writeup.md",
+                "file": "Support Writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3da3f61e5091602b",
+            "id": "ca65953f7e298cfb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "67dbe4060ea1a120",
+            "id": "0da08fa871b1780c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "wait-to-publish/Hospital/Hospital Writeup.md"
+                "file": "Support Writeup.md"
               }
             }
           }
@@ -146,25 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0753dd467afb6c9b",
+  "active": "dbaa55b4ccbe4714",
   "lastOpenFiles": [
-    "wait-to-publish/DevVortex/DevVortex Writeup.md",
-    "Stocker/Stocker Writeup.md",
-    "Soccer/Soccer Writeup.md",
-    "Sau/Sau Writeup.md",
-    "Pilgrimage/Pilgrimage Writeup.md",
-    "MetaTwo/MetaTwo Writeup.md",
-    "Keeper/Keeper Writeup.md",
-    "Keeper/redgrod.png",
-    "Investigation/Investigation Writeup.md",
-    "CozyHosting/CozyHosting Writeup.md",
-    "Codify/Codify Writeup.md",
-    "Broker/Broker Writeup.md",
-    "Analytics/Analytics Writeup.md",
-    "Keeper/Keeper.png",
-    "Keeper/hash.png",
-    "Broker/Broker.png",
-    "Broker/Broker.png.crdownload",
-    "Analytics/Analytics.png"
+    "Thu-11-2024_12-40.png",
+    "Thu-11-2024_11-54.png",
+    "Thu-11-2024_11-45.png",
+    "Thu-11-2024_01-24.png",
+    "Thu-11-2024_01-23.png",
+    "Thu-11-2024_01-22.png",
+    "Thu-11-2024_01-19.png",
+    "Thu-11-2024_00-48.png",
+    "Thu-11-2024_00-47.png",
+    "Thu-11-2024_00-45.png",
+    "Support.png",
+    "Support.png.crdownload",
+    "nmap.md",
+    "directories.md",
+    "Support Writeup.md",
+    "notes.md"
   ]
 }
